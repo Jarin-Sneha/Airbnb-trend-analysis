@@ -1,1 +1,3 @@
 # Airbnb-trend-analysis
+
+This project shows airbnb trends for.....
